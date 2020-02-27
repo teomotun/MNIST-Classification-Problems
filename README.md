@@ -20,8 +20,8 @@ Classification of Zalando's fashion article images
 
 Here's an example how the data looks (*each class takes three-rows*):
 
-![](doc/img/fashion-mnist-sprite.png)
+![](img/fashion-mnist-sprite.png)
 
-<img src="doc/img/embedding.gif" width="100%">
+<img src="img/embedding.gif" width="100%">
 
 “Fashion MNIST” dataset here is used for experimenting and practicing machine learning. The dataset is  provided by Zalando(https://zalando.com/) . Thanks to Zalando Research(https://github.com/zalandoresearch/fashion-mnist) for hosting the dataset. 
